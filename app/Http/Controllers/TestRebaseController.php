@@ -10,4 +10,7 @@ class TestRebaseController extends Controller
     public function rebase(){
         return "rebase";
     }
+    public function neymar(){
+        return "neymar";
+    }
 }
