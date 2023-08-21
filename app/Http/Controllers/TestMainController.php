@@ -7,4 +7,7 @@ use Illuminate\Http\Request;
 class TestMainController extends Controller
 {
     //
+    public function abc(){
+        return "abc";
+    }
 }
