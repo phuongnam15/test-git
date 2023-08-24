@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 class TestBranchController extends Controller
 {
     //
-    public function abc(){
-        return "abc";
+    public function xyz(){
+        return "xyz";
     }
 }
