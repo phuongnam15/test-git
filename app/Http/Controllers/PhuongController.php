@@ -9,5 +9,6 @@ class PhuongController extends Controller
     //
     public function abc(){
         return "abc";
+
     }
 }
