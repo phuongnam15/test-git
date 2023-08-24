@@ -9,5 +9,6 @@ class JKGNController extends Controller
     //
     public function abc(){
         return "abc";
+
     }
 }
